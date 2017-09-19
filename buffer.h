@@ -211,5 +211,3 @@ std::string Buffer::readString() {
 	}
 	return str;
 }
-
-#endif
